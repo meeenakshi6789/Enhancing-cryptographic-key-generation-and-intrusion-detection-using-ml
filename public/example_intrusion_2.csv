@@ -1,0 +1,6 @@
+id,message,timestamp
+1,<img src="x" onerror="stealCookies()">,2025-11-02T13:00:00Z
+2,UNION SELECT username, password FROM users,2025-11-02T13:01:00Z
+3,cat /etc/shadow,2025-11-02T13:02:00Z
+4,; DROP TABLE users;,2025-11-02T13:03:00Z
+5,<iframe src="http://malicious.com/steal">,2025-11-02T13:04:00Z
