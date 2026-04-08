@@ -1,0 +1,5 @@
+ticket_id,customer,issue,priority
+T001,customer1@email.com,"Password reset request for user account",low
+T002,customer2@email.com,"Unable to download files from dashboard",medium
+T003,customer3@email.com,"Request for additional storage space",low
+T004,customer4@email.com,"Questions about billing and subscription",medium

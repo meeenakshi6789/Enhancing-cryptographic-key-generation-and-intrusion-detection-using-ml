@@ -1,0 +1,5 @@
+username,comment,action,timestamp
+admin,"' OR 1=1; DROP TABLE users; --",login,2024-01-15 10:30:00
+hacker,"<script>alert('XSS Attack!');</script>",comment,2024-01-15 10:31:00
+attacker,"user; rm -rf /; cat /etc/passwd",command,2024-01-15 10:32:00
+malicious,"UNION SELECT password FROM admin_table",query,2024-01-15 10:33:00

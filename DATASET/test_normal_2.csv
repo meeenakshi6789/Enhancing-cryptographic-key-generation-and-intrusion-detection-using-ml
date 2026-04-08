@@ -1,0 +1,5 @@
+service,status,message,time
+backup_service,completed,"Daily backup finished successfully",2024-01-15 02:00:00
+web_server,running,"HTTP server responding normally",2024-01-15 08:00:00
+database,healthy,"Connection pool stable at 85% capacity",2024-01-15 08:30:00
+monitoring,active,"All system metrics within normal range",2024-01-15 09:00:00

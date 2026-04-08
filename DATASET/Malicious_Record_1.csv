@@ -1,0 +1,1001 @@
+Packet_Size,Protocol_Type,Threat_Type,Risk_Level,Source_IP,Destination_IP,Label
+983,ICMP,Port Scan,Critical,192.168.100.173,10.0.50.75,Malicious
+1022,TCP,Suspicious Payload,High,192.168.100.37,10.0.50.240,Malicious
+454,ICMP,SQL Injection,High,192.168.100.213,10.0.50.223,Malicious
+933,TCP,Malware Command,High,192.168.100.175,10.0.50.4,Malicious
+450,TCP,SQL Injection,High,192.168.100.28,10.0.50.32,Malicious
+787,ICMP,DDoS SYN Flood,Critical,192.168.100.240,10.0.50.181,Malicious
+1271,ICMP,Suspicious Payload,Critical,192.168.100.105,10.0.50.7,Malicious
+608,UDP,Data Exfiltration,High,192.168.100.130,10.0.50.181,Malicious
+407,UDP,Botnet Traffic,Critical,192.168.100.150,10.0.50.54,Malicious
+1264,TCP,Port Scan,High,192.168.100.128,10.0.50.14,Malicious
+759,ICMP,SQL Injection,High,192.168.100.59,10.0.50.208,Malicious
+1346,UDP,ARP Spoofing,High,192.168.100.176,10.0.50.54,Malicious
+249,UDP,ARP Spoofing,Critical,192.168.100.157,10.0.50.175,Malicious
+338,TCP,Data Exfiltration,Critical,192.168.100.88,10.0.50.44,Malicious
+325,UDP,Botnet Traffic,High,192.168.100.85,10.0.50.65,Malicious
+1372,TCP,Malware Command,High,192.168.100.77,10.0.50.34,Malicious
+263,ICMP,ARP Spoofing,Critical,192.168.100.101,10.0.50.139,Malicious
+1128,TCP,Malware Command,Critical,192.168.100.252,10.0.50.86,Malicious
+561,UDP,Suspicious Payload,Critical,192.168.100.75,10.0.50.195,Malicious
+949,UDP,DDoS SYN Flood,High,192.168.100.229,10.0.50.110,Malicious
+1014,UDP,ARP Spoofing,High,192.168.100.248,10.0.50.50,Malicious
+238,TCP,SQL Injection,High,192.168.100.208,10.0.50.120,Malicious
+568,UDP,Unauthorized Access,High,192.168.100.49,10.0.50.239,Malicious
+335,TCP,Botnet Traffic,High,192.168.100.207,10.0.50.52,Malicious
+298,ICMP,Botnet Traffic,Critical,192.168.100.13,10.0.50.251,Malicious
+476,UDP,SQL Injection,High,192.168.100.238,10.0.50.242,Malicious
+772,ICMP,Malware Command,Critical,192.168.100.138,10.0.50.83,Malicious
+1116,ICMP,Suspicious Payload,High,192.168.100.43,10.0.50.73,Malicious
+391,TCP,Brute Force Login,Critical,192.168.100.187,10.0.50.223,Malicious
+1045,TCP,SQL Injection,High,192.168.100.6,10.0.50.7,Malicious
+1386,UDP,Suspicious Payload,High,192.168.100.62,10.0.50.180,Malicious
+1178,TCP,Data Exfiltration,High,192.168.100.176,10.0.50.143,Malicious
+711,ICMP,Port Scan,High,192.168.100.99,10.0.50.40,Malicious
+439,ICMP,ARP Spoofing,Critical,192.168.100.72,10.0.50.58,Malicious
+623,TCP,DDoS SYN Flood,High,192.168.100.244,10.0.50.109,Malicious
+929,UDP,ARP Spoofing,Critical,192.168.100.5,10.0.50.180,Malicious
+705,UDP,SQL Injection,High,192.168.100.53,10.0.50.119,Malicious
+357,UDP,Port Scan,High,192.168.100.240,10.0.50.41,Malicious
+1401,ICMP,ARP Spoofing,Critical,192.168.100.100,10.0.50.1,Malicious
+941,TCP,ARP Spoofing,Critical,192.168.100.123,10.0.50.137,Malicious
+1262,UDP,Unauthorized Access,Critical,192.168.100.228,10.0.50.81,Malicious
+773,UDP,Unauthorized Access,Critical,192.168.100.41,10.0.50.145,Malicious
+1348,TCP,Data Exfiltration,High,192.168.100.141,10.0.50.32,Malicious
+763,TCP,Port Scan,Critical,192.168.100.56,10.0.50.23,Malicious
+271,UDP,ARP Spoofing,High,192.168.100.46,10.0.50.22,Malicious
+1078,TCP,Malware Command,Critical,192.168.100.192,10.0.50.31,Malicious
+715,UDP,Brute Force Login,Critical,192.168.100.181,10.0.50.99,Malicious
+1274,TCP,ARP Spoofing,High,192.168.100.220,10.0.50.12,Malicious
+325,ICMP,Suspicious Payload,High,192.168.100.186,10.0.50.78,Malicious
+1298,ICMP,Suspicious Payload,Critical,192.168.100.138,10.0.50.214,Malicious
+929,ICMP,ARP Spoofing,Critical,192.168.100.142,10.0.50.149,Malicious
+1295,UDP,Suspicious Payload,Critical,192.168.100.224,10.0.50.16,Malicious
+245,ICMP,ARP Spoofing,High,192.168.100.242,10.0.50.201,Malicious
+1080,ICMP,DDoS SYN Flood,Critical,192.168.100.169,10.0.50.91,Malicious
+1346,ICMP,Port Scan,Critical,192.168.100.200,10.0.50.143,Malicious
+1424,ICMP,ARP Spoofing,Critical,192.168.100.85,10.0.50.81,Malicious
+1473,UDP,ARP Spoofing,Critical,192.168.100.132,10.0.50.20,Malicious
+629,ICMP,Brute Force Login,High,192.168.100.23,10.0.50.11,Malicious
+756,TCP,Data Exfiltration,High,192.168.100.79,10.0.50.220,Malicious
+772,ICMP,Suspicious Payload,High,192.168.100.209,10.0.50.30,Malicious
+1007,UDP,Brute Force Login,High,192.168.100.236,10.0.50.3,Malicious
+1322,ICMP,Data Exfiltration,High,192.168.100.252,10.0.50.106,Malicious
+234,UDP,SQL Injection,Critical,192.168.100.47,10.0.50.23,Malicious
+1483,UDP,Brute Force Login,Critical,192.168.100.81,10.0.50.209,Malicious
+528,TCP,Data Exfiltration,Critical,192.168.100.102,10.0.50.85,Malicious
+452,ICMP,Suspicious Payload,High,192.168.100.228,10.0.50.51,Malicious
+414,ICMP,Botnet Traffic,Critical,192.168.100.87,10.0.50.135,Malicious
+901,ICMP,Suspicious Payload,High,192.168.100.35,10.0.50.51,Malicious
+481,ICMP,Brute Force Login,Critical,192.168.100.216,10.0.50.245,Malicious
+534,TCP,ARP Spoofing,Critical,192.168.100.209,10.0.50.9,Malicious
+330,TCP,Botnet Traffic,High,192.168.100.165,10.0.50.183,Malicious
+633,TCP,Botnet Traffic,Critical,192.168.100.169,10.0.50.180,Malicious
+524,TCP,Suspicious Payload,Critical,192.168.100.39,10.0.50.47,Malicious
+862,UDP,ARP Spoofing,High,192.168.100.138,10.0.50.254,Malicious
+722,ICMP,Data Exfiltration,Critical,192.168.100.59,10.0.50.8,Malicious
+1323,ICMP,Suspicious Payload,Critical,192.168.100.232,10.0.50.55,Malicious
+1249,TCP,Malware Command,High,192.168.100.208,10.0.50.158,Malicious
+883,TCP,Brute Force Login,Critical,192.168.100.218,10.0.50.33,Malicious
+1123,TCP,Malware Command,High,192.168.100.179,10.0.50.120,Malicious
+1411,ICMP,Unauthorized Access,High,192.168.100.178,10.0.50.32,Malicious
+888,UDP,Malware Command,High,192.168.100.233,10.0.50.141,Malicious
+681,ICMP,Data Exfiltration,High,192.168.100.111,10.0.50.225,Malicious
+678,UDP,Botnet Traffic,Critical,192.168.100.50,10.0.50.241,Malicious
+577,UDP,ARP Spoofing,Critical,192.168.100.251,10.0.50.181,Malicious
+1160,TCP,Malware Command,High,192.168.100.30,10.0.50.3,Malicious
+473,UDP,DDoS SYN Flood,Critical,192.168.100.139,10.0.50.124,Malicious
+997,ICMP,DDoS SYN Flood,High,192.168.100.56,10.0.50.54,Malicious
+967,UDP,Brute Force Login,High,192.168.100.7,10.0.50.162,Malicious
+542,ICMP,DDoS SYN Flood,Critical,192.168.100.27,10.0.50.198,Malicious
+602,UDP,ARP Spoofing,Critical,192.168.100.92,10.0.50.152,Malicious
+1035,ICMP,Suspicious Payload,High,192.168.100.50,10.0.50.199,Malicious
+853,UDP,DDoS SYN Flood,Critical,192.168.100.7,10.0.50.117,Malicious
+1076,TCP,Brute Force Login,Critical,192.168.100.15,10.0.50.157,Malicious
+1209,TCP,Brute Force Login,Critical,192.168.100.5,10.0.50.75,Malicious
+1257,UDP,ARP Spoofing,Critical,192.168.100.147,10.0.50.45,Malicious
+1338,UDP,Malware Command,High,192.168.100.80,10.0.50.232,Malicious
+958,UDP,Suspicious Payload,Critical,192.168.100.128,10.0.50.23,Malicious
+574,ICMP,Botnet Traffic,High,192.168.100.253,10.0.50.14,Malicious
+336,UDP,SQL Injection,Critical,192.168.100.206,10.0.50.162,Malicious
+409,UDP,Suspicious Payload,Critical,192.168.100.11,10.0.50.190,Malicious
+272,ICMP,Brute Force Login,Critical,192.168.100.160,10.0.50.207,Malicious
+1365,ICMP,SQL Injection,Critical,192.168.100.239,10.0.50.152,Malicious
+1386,TCP,Data Exfiltration,Critical,192.168.100.143,10.0.50.250,Malicious
+431,ICMP,Brute Force Login,Critical,192.168.100.193,10.0.50.160,Malicious
+1354,TCP,Suspicious Payload,High,192.168.100.167,10.0.50.242,Malicious
+1354,UDP,Suspicious Payload,High,192.168.100.215,10.0.50.117,Malicious
+847,ICMP,Data Exfiltration,High,192.168.100.67,10.0.50.139,Malicious
+897,TCP,Malware Command,High,192.168.100.171,10.0.50.197,Malicious
+796,TCP,Malware Command,Critical,192.168.100.117,10.0.50.193,Malicious
+882,TCP,Botnet Traffic,High,192.168.100.134,10.0.50.245,Malicious
+413,ICMP,SQL Injection,High,192.168.100.76,10.0.50.181,Malicious
+304,UDP,Malware Command,High,192.168.100.211,10.0.50.227,Malicious
+752,TCP,Brute Force Login,High,192.168.100.168,10.0.50.226,Malicious
+1137,ICMP,Port Scan,Critical,192.168.100.155,10.0.50.215,Malicious
+579,ICMP,Unauthorized Access,Critical,192.168.100.187,10.0.50.34,Malicious
+517,ICMP,Unauthorized Access,Critical,192.168.100.60,10.0.50.100,Malicious
+1226,TCP,Brute Force Login,High,192.168.100.181,10.0.50.106,Malicious
+1332,ICMP,Brute Force Login,High,192.168.100.170,10.0.50.36,Malicious
+685,TCP,Botnet Traffic,High,192.168.100.215,10.0.50.14,Malicious
+717,TCP,Data Exfiltration,High,192.168.100.249,10.0.50.114,Malicious
+393,ICMP,Suspicious Payload,High,192.168.100.49,10.0.50.134,Malicious
+239,ICMP,Port Scan,Critical,192.168.100.118,10.0.50.79,Malicious
+681,ICMP,Malware Command,High,192.168.100.137,10.0.50.210,Malicious
+678,TCP,ARP Spoofing,High,192.168.100.164,10.0.50.239,Malicious
+218,UDP,ARP Spoofing,High,192.168.100.121,10.0.50.75,Malicious
+1226,ICMP,Malware Command,High,192.168.100.212,10.0.50.154,Malicious
+1471,TCP,ARP Spoofing,Critical,192.168.100.133,10.0.50.3,Malicious
+769,ICMP,SQL Injection,Critical,192.168.100.230,10.0.50.194,Malicious
+410,TCP,Unauthorized Access,High,192.168.100.69,10.0.50.109,Malicious
+649,UDP,Data Exfiltration,Critical,192.168.100.60,10.0.50.70,Malicious
+440,UDP,Brute Force Login,High,192.168.100.16,10.0.50.75,Malicious
+995,ICMP,ARP Spoofing,High,192.168.100.5,10.0.50.124,Malicious
+1017,ICMP,DDoS SYN Flood,High,192.168.100.46,10.0.50.51,Malicious
+928,UDP,Botnet Traffic,Critical,192.168.100.20,10.0.50.81,Malicious
+1229,ICMP,ARP Spoofing,Critical,192.168.100.43,10.0.50.82,Malicious
+1268,TCP,Brute Force Login,High,192.168.100.17,10.0.50.103,Malicious
+550,TCP,Data Exfiltration,Critical,192.168.100.231,10.0.50.23,Malicious
+1396,UDP,Port Scan,Critical,192.168.100.222,10.0.50.10,Malicious
+1111,UDP,Suspicious Payload,Critical,192.168.100.128,10.0.50.88,Malicious
+1177,TCP,Malware Command,High,192.168.100.79,10.0.50.253,Malicious
+200,UDP,Suspicious Payload,Critical,192.168.100.232,10.0.50.198,Malicious
+307,ICMP,Botnet Traffic,Critical,192.168.100.241,10.0.50.175,Malicious
+944,TCP,Botnet Traffic,High,192.168.100.55,10.0.50.53,Malicious
+356,UDP,DDoS SYN Flood,Critical,192.168.100.229,10.0.50.73,Malicious
+660,TCP,Botnet Traffic,High,192.168.100.175,10.0.50.49,Malicious
+328,TCP,Malware Command,High,192.168.100.50,10.0.50.229,Malicious
+306,ICMP,Data Exfiltration,High,192.168.100.127,10.0.50.15,Malicious
+1233,TCP,Brute Force Login,Critical,192.168.100.122,10.0.50.95,Malicious
+248,UDP,Malware Command,Critical,192.168.100.244,10.0.50.122,Malicious
+1255,UDP,Unauthorized Access,Critical,192.168.100.4,10.0.50.69,Malicious
+584,TCP,Data Exfiltration,Critical,192.168.100.98,10.0.50.196,Malicious
+1469,TCP,ARP Spoofing,Critical,192.168.100.123,10.0.50.171,Malicious
+1277,UDP,Brute Force Login,High,192.168.100.16,10.0.50.46,Malicious
+549,ICMP,Brute Force Login,High,192.168.100.236,10.0.50.218,Malicious
+988,ICMP,DDoS SYN Flood,Critical,192.168.100.102,10.0.50.54,Malicious
+499,TCP,Data Exfiltration,High,192.168.100.74,10.0.50.71,Malicious
+981,ICMP,Brute Force Login,Critical,192.168.100.77,10.0.50.249,Malicious
+997,ICMP,Suspicious Payload,Critical,192.168.100.194,10.0.50.158,Malicious
+904,UDP,Suspicious Payload,High,192.168.100.197,10.0.50.165,Malicious
+694,ICMP,Port Scan,High,192.168.100.92,10.0.50.112,Malicious
+230,UDP,Unauthorized Access,Critical,192.168.100.212,10.0.50.31,Malicious
+455,ICMP,DDoS SYN Flood,Critical,192.168.100.65,10.0.50.232,Malicious
+522,TCP,Botnet Traffic,High,192.168.100.217,10.0.50.216,Malicious
+1207,ICMP,Botnet Traffic,High,192.168.100.201,10.0.50.202,Malicious
+658,TCP,ARP Spoofing,High,192.168.100.154,10.0.50.117,Malicious
+749,TCP,DDoS SYN Flood,High,192.168.100.99,10.0.50.1,Malicious
+1123,TCP,ARP Spoofing,Critical,192.168.100.227,10.0.50.6,Malicious
+1035,UDP,Suspicious Payload,High,192.168.100.192,10.0.50.128,Malicious
+1280,UDP,Unauthorized Access,High,192.168.100.198,10.0.50.234,Malicious
+512,TCP,DDoS SYN Flood,Critical,192.168.100.187,10.0.50.15,Malicious
+394,UDP,Data Exfiltration,High,192.168.100.107,10.0.50.73,Malicious
+1462,ICMP,Port Scan,High,192.168.100.120,10.0.50.122,Malicious
+262,UDP,DDoS SYN Flood,High,192.168.100.117,10.0.50.216,Malicious
+1158,UDP,Suspicious Payload,High,192.168.100.74,10.0.50.238,Malicious
+217,UDP,Port Scan,Critical,192.168.100.21,10.0.50.122,Malicious
+308,UDP,Port Scan,High,192.168.100.60,10.0.50.29,Malicious
+1126,TCP,Brute Force Login,High,192.168.100.12,10.0.50.4,Malicious
+1391,ICMP,DDoS SYN Flood,Critical,192.168.100.140,10.0.50.67,Malicious
+453,ICMP,Brute Force Login,High,192.168.100.194,10.0.50.244,Malicious
+525,UDP,Botnet Traffic,Critical,192.168.100.169,10.0.50.83,Malicious
+1399,TCP,Malware Command,High,192.168.100.180,10.0.50.60,Malicious
+1300,ICMP,SQL Injection,High,192.168.100.1,10.0.50.2,Malicious
+1317,TCP,Brute Force Login,Critical,192.168.100.188,10.0.50.203,Malicious
+354,TCP,Data Exfiltration,High,192.168.100.235,10.0.50.137,Malicious
+633,UDP,Data Exfiltration,High,192.168.100.235,10.0.50.163,Malicious
+402,UDP,DDoS SYN Flood,High,192.168.100.82,10.0.50.96,Malicious
+793,ICMP,ARP Spoofing,High,192.168.100.84,10.0.50.115,Malicious
+1418,TCP,Data Exfiltration,Critical,192.168.100.229,10.0.50.152,Malicious
+1166,UDP,Brute Force Login,Critical,192.168.100.97,10.0.50.212,Malicious
+1165,TCP,Botnet Traffic,High,192.168.100.27,10.0.50.82,Malicious
+231,TCP,Malware Command,High,192.168.100.136,10.0.50.146,Malicious
+1020,ICMP,Botnet Traffic,High,192.168.100.40,10.0.50.226,Malicious
+488,ICMP,Suspicious Payload,Critical,192.168.100.48,10.0.50.116,Malicious
+1484,UDP,ARP Spoofing,Critical,192.168.100.240,10.0.50.12,Malicious
+761,ICMP,ARP Spoofing,Critical,192.168.100.190,10.0.50.105,Malicious
+1433,ICMP,ARP Spoofing,Critical,192.168.100.36,10.0.50.231,Malicious
+307,TCP,Data Exfiltration,High,192.168.100.159,10.0.50.138,Malicious
+417,UDP,Malware Command,Critical,192.168.100.10,10.0.50.60,Malicious
+987,TCP,DDoS SYN Flood,Critical,192.168.100.179,10.0.50.59,Malicious
+874,UDP,Port Scan,Critical,192.168.100.29,10.0.50.42,Malicious
+599,ICMP,Data Exfiltration,Critical,192.168.100.47,10.0.50.224,Malicious
+1379,TCP,DDoS SYN Flood,High,192.168.100.194,10.0.50.63,Malicious
+1008,ICMP,Brute Force Login,High,192.168.100.234,10.0.50.51,Malicious
+1135,UDP,Brute Force Login,High,192.168.100.136,10.0.50.88,Malicious
+557,TCP,Brute Force Login,High,192.168.100.61,10.0.50.116,Malicious
+961,ICMP,Data Exfiltration,High,192.168.100.36,10.0.50.66,Malicious
+650,ICMP,ARP Spoofing,High,192.168.100.26,10.0.50.207,Malicious
+1148,TCP,SQL Injection,High,192.168.100.220,10.0.50.138,Malicious
+1372,ICMP,Malware Command,Critical,192.168.100.28,10.0.50.77,Malicious
+958,ICMP,Data Exfiltration,High,192.168.100.139,10.0.50.24,Malicious
+632,ICMP,ARP Spoofing,High,192.168.100.220,10.0.50.151,Malicious
+727,UDP,Data Exfiltration,Critical,192.168.100.2,10.0.50.81,Malicious
+531,TCP,DDoS SYN Flood,High,192.168.100.116,10.0.50.101,Malicious
+693,ICMP,Suspicious Payload,High,192.168.100.142,10.0.50.67,Malicious
+1378,ICMP,Malware Command,High,192.168.100.39,10.0.50.116,Malicious
+669,ICMP,Botnet Traffic,High,192.168.100.210,10.0.50.234,Malicious
+844,UDP,Suspicious Payload,Critical,192.168.100.245,10.0.50.45,Malicious
+943,ICMP,Unauthorized Access,Critical,192.168.100.222,10.0.50.214,Malicious
+887,UDP,Botnet Traffic,Critical,192.168.100.154,10.0.50.34,Malicious
+549,ICMP,Unauthorized Access,Critical,192.168.100.226,10.0.50.251,Malicious
+404,UDP,Suspicious Payload,High,192.168.100.237,10.0.50.110,Malicious
+712,ICMP,SQL Injection,Critical,192.168.100.210,10.0.50.96,Malicious
+635,ICMP,Malware Command,Critical,192.168.100.140,10.0.50.204,Malicious
+431,ICMP,Malware Command,High,192.168.100.178,10.0.50.155,Malicious
+719,UDP,ARP Spoofing,High,192.168.100.149,10.0.50.150,Malicious
+536,TCP,Unauthorized Access,Critical,192.168.100.122,10.0.50.166,Malicious
+1016,ICMP,Suspicious Payload,High,192.168.100.181,10.0.50.124,Malicious
+539,TCP,Botnet Traffic,Critical,192.168.100.32,10.0.50.249,Malicious
+1188,UDP,Brute Force Login,Critical,192.168.100.243,10.0.50.238,Malicious
+897,UDP,Malware Command,Critical,192.168.100.21,10.0.50.190,Malicious
+997,ICMP,SQL Injection,High,192.168.100.37,10.0.50.83,Malicious
+1215,ICMP,ARP Spoofing,Critical,192.168.100.188,10.0.50.38,Malicious
+831,TCP,SQL Injection,High,192.168.100.111,10.0.50.54,Malicious
+852,ICMP,Brute Force Login,Critical,192.168.100.229,10.0.50.68,Malicious
+986,UDP,Suspicious Payload,Critical,192.168.100.205,10.0.50.40,Malicious
+204,UDP,Data Exfiltration,High,192.168.100.146,10.0.50.246,Malicious
+1214,TCP,Botnet Traffic,Critical,192.168.100.25,10.0.50.116,Malicious
+302,TCP,Suspicious Payload,Critical,192.168.100.220,10.0.50.28,Malicious
+714,ICMP,Port Scan,High,192.168.100.76,10.0.50.165,Malicious
+228,TCP,DDoS SYN Flood,High,192.168.100.222,10.0.50.62,Malicious
+832,ICMP,ARP Spoofing,Critical,192.168.100.117,10.0.50.150,Malicious
+1218,TCP,Malware Command,High,192.168.100.96,10.0.50.5,Malicious
+425,UDP,Brute Force Login,High,192.168.100.29,10.0.50.153,Malicious
+785,ICMP,Botnet Traffic,High,192.168.100.92,10.0.50.220,Malicious
+378,ICMP,Port Scan,Critical,192.168.100.61,10.0.50.200,Malicious
+388,ICMP,Brute Force Login,Critical,192.168.100.137,10.0.50.107,Malicious
+1438,UDP,Data Exfiltration,High,192.168.100.231,10.0.50.133,Malicious
+777,TCP,Malware Command,High,192.168.100.254,10.0.50.254,Malicious
+1271,UDP,DDoS SYN Flood,Critical,192.168.100.50,10.0.50.94,Malicious
+701,UDP,Port Scan,High,192.168.100.87,10.0.50.72,Malicious
+306,TCP,Botnet Traffic,High,192.168.100.65,10.0.50.253,Malicious
+826,UDP,Suspicious Payload,High,192.168.100.146,10.0.50.240,Malicious
+774,TCP,Port Scan,Critical,192.168.100.156,10.0.50.116,Malicious
+552,TCP,DDoS SYN Flood,Critical,192.168.100.72,10.0.50.166,Malicious
+1247,ICMP,Suspicious Payload,Critical,192.168.100.111,10.0.50.190,Malicious
+712,ICMP,Data Exfiltration,Critical,192.168.100.197,10.0.50.236,Malicious
+434,ICMP,Port Scan,High,192.168.100.217,10.0.50.145,Malicious
+1254,ICMP,ARP Spoofing,High,192.168.100.160,10.0.50.200,Malicious
+1334,ICMP,Data Exfiltration,Critical,192.168.100.80,10.0.50.51,Malicious
+1088,TCP,Port Scan,High,192.168.100.237,10.0.50.49,Malicious
+1113,UDP,Port Scan,High,192.168.100.18,10.0.50.229,Malicious
+932,UDP,Suspicious Payload,Critical,192.168.100.193,10.0.50.115,Malicious
+1332,ICMP,SQL Injection,High,192.168.100.100,10.0.50.243,Malicious
+667,UDP,DDoS SYN Flood,High,192.168.100.198,10.0.50.116,Malicious
+669,ICMP,DDoS SYN Flood,Critical,192.168.100.184,10.0.50.210,Malicious
+502,TCP,ARP Spoofing,High,192.168.100.198,10.0.50.251,Malicious
+729,UDP,Unauthorized Access,Critical,192.168.100.67,10.0.50.28,Malicious
+1143,ICMP,Unauthorized Access,Critical,192.168.100.156,10.0.50.158,Malicious
+1041,ICMP,Port Scan,Critical,192.168.100.61,10.0.50.189,Malicious
+983,UDP,DDoS SYN Flood,High,192.168.100.37,10.0.50.236,Malicious
+1106,ICMP,Malware Command,High,192.168.100.118,10.0.50.57,Malicious
+1236,TCP,SQL Injection,High,192.168.100.184,10.0.50.124,Malicious
+681,TCP,Suspicious Payload,Critical,192.168.100.199,10.0.50.50,Malicious
+479,ICMP,Malware Command,Critical,192.168.100.64,10.0.50.248,Malicious
+321,ICMP,Malware Command,High,192.168.100.160,10.0.50.80,Malicious
+1304,UDP,SQL Injection,Critical,192.168.100.209,10.0.50.169,Malicious
+1359,UDP,SQL Injection,Critical,192.168.100.116,10.0.50.44,Malicious
+1216,ICMP,Port Scan,High,192.168.100.183,10.0.50.103,Malicious
+477,ICMP,Brute Force Login,High,192.168.100.88,10.0.50.126,Malicious
+266,UDP,Botnet Traffic,High,192.168.100.208,10.0.50.58,Malicious
+859,ICMP,Brute Force Login,High,192.168.100.251,10.0.50.3,Malicious
+1241,UDP,Suspicious Payload,Critical,192.168.100.238,10.0.50.89,Malicious
+273,TCP,Suspicious Payload,Critical,192.168.100.250,10.0.50.228,Malicious
+1214,ICMP,DDoS SYN Flood,Critical,192.168.100.177,10.0.50.42,Malicious
+726,TCP,SQL Injection,Critical,192.168.100.35,10.0.50.149,Malicious
+1413,UDP,Brute Force Login,Critical,192.168.100.241,10.0.50.53,Malicious
+1143,UDP,Unauthorized Access,High,192.168.100.15,10.0.50.111,Malicious
+1368,TCP,Port Scan,High,192.168.100.92,10.0.50.85,Malicious
+907,UDP,SQL Injection,Critical,192.168.100.138,10.0.50.220,Malicious
+1076,TCP,Malware Command,Critical,192.168.100.149,10.0.50.12,Malicious
+545,ICMP,Suspicious Payload,Critical,192.168.100.100,10.0.50.207,Malicious
+989,UDP,DDoS SYN Flood,Critical,192.168.100.177,10.0.50.20,Malicious
+1176,TCP,Suspicious Payload,High,192.168.100.189,10.0.50.186,Malicious
+654,UDP,Data Exfiltration,High,192.168.100.185,10.0.50.231,Malicious
+244,UDP,Brute Force Login,High,192.168.100.75,10.0.50.42,Malicious
+1275,ICMP,Suspicious Payload,High,192.168.100.102,10.0.50.221,Malicious
+1291,UDP,Port Scan,Critical,192.168.100.19,10.0.50.51,Malicious
+734,ICMP,Data Exfiltration,Critical,192.168.100.171,10.0.50.80,Malicious
+832,UDP,Port Scan,High,192.168.100.193,10.0.50.122,Malicious
+893,ICMP,ARP Spoofing,High,192.168.100.90,10.0.50.78,Malicious
+284,TCP,Brute Force Login,High,192.168.100.134,10.0.50.106,Malicious
+1182,ICMP,Data Exfiltration,High,192.168.100.138,10.0.50.191,Malicious
+1082,UDP,SQL Injection,High,192.168.100.148,10.0.50.67,Malicious
+1239,ICMP,Suspicious Payload,Critical,192.168.100.118,10.0.50.54,Malicious
+325,TCP,SQL Injection,Critical,192.168.100.199,10.0.50.92,Malicious
+937,TCP,Botnet Traffic,High,192.168.100.213,10.0.50.203,Malicious
+1255,ICMP,Malware Command,Critical,192.168.100.103,10.0.50.224,Malicious
+485,UDP,ARP Spoofing,High,192.168.100.51,10.0.50.217,Malicious
+886,TCP,DDoS SYN Flood,High,192.168.100.153,10.0.50.39,Malicious
+1252,UDP,Port Scan,High,192.168.100.235,10.0.50.182,Malicious
+1269,TCP,DDoS SYN Flood,High,192.168.100.110,10.0.50.55,Malicious
+817,UDP,Malware Command,High,192.168.100.156,10.0.50.198,Malicious
+972,TCP,SQL Injection,High,192.168.100.19,10.0.50.20,Malicious
+806,ICMP,Data Exfiltration,High,192.168.100.157,10.0.50.177,Malicious
+1259,ICMP,Malware Command,Critical,192.168.100.118,10.0.50.223,Malicious
+645,UDP,DDoS SYN Flood,High,192.168.100.78,10.0.50.235,Malicious
+1363,UDP,ARP Spoofing,High,192.168.100.191,10.0.50.204,Malicious
+1391,UDP,DDoS SYN Flood,Critical,192.168.100.128,10.0.50.49,Malicious
+332,TCP,Botnet Traffic,Critical,192.168.100.116,10.0.50.192,Malicious
+395,TCP,Botnet Traffic,Critical,192.168.100.209,10.0.50.93,Malicious
+251,ICMP,Data Exfiltration,High,192.168.100.180,10.0.50.151,Malicious
+563,UDP,Unauthorized Access,Critical,192.168.100.40,10.0.50.154,Malicious
+331,UDP,Data Exfiltration,Critical,192.168.100.193,10.0.50.86,Malicious
+249,TCP,Malware Command,Critical,192.168.100.64,10.0.50.26,Malicious
+992,TCP,Port Scan,High,192.168.100.212,10.0.50.130,Malicious
+573,ICMP,Botnet Traffic,High,192.168.100.76,10.0.50.98,Malicious
+284,TCP,Malware Command,Critical,192.168.100.108,10.0.50.210,Malicious
+942,ICMP,Unauthorized Access,Critical,192.168.100.110,10.0.50.123,Malicious
+1254,ICMP,Botnet Traffic,High,192.168.100.143,10.0.50.40,Malicious
+277,UDP,Data Exfiltration,Critical,192.168.100.15,10.0.50.27,Malicious
+311,TCP,Suspicious Payload,High,192.168.100.242,10.0.50.178,Malicious
+785,TCP,Botnet Traffic,Critical,192.168.100.156,10.0.50.8,Malicious
+871,UDP,Brute Force Login,Critical,192.168.100.138,10.0.50.145,Malicious
+802,UDP,Data Exfiltration,High,192.168.100.177,10.0.50.80,Malicious
+219,ICMP,Port Scan,Critical,192.168.100.234,10.0.50.14,Malicious
+1195,ICMP,Brute Force Login,High,192.168.100.204,10.0.50.80,Malicious
+352,ICMP,Brute Force Login,Critical,192.168.100.154,10.0.50.32,Malicious
+1410,ICMP,Botnet Traffic,Critical,192.168.100.96,10.0.50.152,Malicious
+1152,ICMP,Data Exfiltration,Critical,192.168.100.135,10.0.50.58,Malicious
+257,UDP,Data Exfiltration,Critical,192.168.100.248,10.0.50.164,Malicious
+1366,TCP,Botnet Traffic,High,192.168.100.183,10.0.50.131,Malicious
+245,ICMP,Brute Force Login,Critical,192.168.100.1,10.0.50.205,Malicious
+1042,UDP,DDoS SYN Flood,High,192.168.100.94,10.0.50.21,Malicious
+1129,UDP,DDoS SYN Flood,Critical,192.168.100.237,10.0.50.10,Malicious
+1172,ICMP,SQL Injection,High,192.168.100.201,10.0.50.122,Malicious
+1221,UDP,Suspicious Payload,Critical,192.168.100.173,10.0.50.43,Malicious
+635,TCP,Data Exfiltration,High,192.168.100.15,10.0.50.169,Malicious
+859,UDP,Malware Command,High,192.168.100.250,10.0.50.117,Malicious
+370,ICMP,Unauthorized Access,High,192.168.100.138,10.0.50.12,Malicious
+825,TCP,SQL Injection,Critical,192.168.100.148,10.0.50.119,Malicious
+969,TCP,Port Scan,Critical,192.168.100.152,10.0.50.34,Malicious
+1452,UDP,Port Scan,Critical,192.168.100.49,10.0.50.99,Malicious
+1078,UDP,Port Scan,Critical,192.168.100.62,10.0.50.91,Malicious
+675,TCP,SQL Injection,High,192.168.100.111,10.0.50.174,Malicious
+620,ICMP,Port Scan,Critical,192.168.100.165,10.0.50.69,Malicious
+949,UDP,Data Exfiltration,High,192.168.100.192,10.0.50.199,Malicious
+984,TCP,Malware Command,High,192.168.100.174,10.0.50.169,Malicious
+784,ICMP,Unauthorized Access,Critical,192.168.100.88,10.0.50.235,Malicious
+1497,TCP,Port Scan,High,192.168.100.174,10.0.50.237,Malicious
+1172,TCP,Data Exfiltration,Critical,192.168.100.37,10.0.50.39,Malicious
+394,UDP,SQL Injection,Critical,192.168.100.118,10.0.50.79,Malicious
+619,ICMP,Brute Force Login,High,192.168.100.147,10.0.50.2,Malicious
+1301,TCP,Brute Force Login,Critical,192.168.100.105,10.0.50.72,Malicious
+975,TCP,DDoS SYN Flood,High,192.168.100.24,10.0.50.54,Malicious
+1122,ICMP,SQL Injection,High,192.168.100.146,10.0.50.122,Malicious
+646,ICMP,Botnet Traffic,High,192.168.100.244,10.0.50.203,Malicious
+1120,ICMP,Malware Command,Critical,192.168.100.249,10.0.50.5,Malicious
+1154,ICMP,SQL Injection,High,192.168.100.83,10.0.50.40,Malicious
+669,UDP,Data Exfiltration,Critical,192.168.100.128,10.0.50.128,Malicious
+201,UDP,SQL Injection,Critical,192.168.100.210,10.0.50.60,Malicious
+728,ICMP,Port Scan,Critical,192.168.100.50,10.0.50.185,Malicious
+424,TCP,Port Scan,High,192.168.100.69,10.0.50.237,Malicious
+513,TCP,SQL Injection,Critical,192.168.100.184,10.0.50.29,Malicious
+1257,TCP,Brute Force Login,High,192.168.100.215,10.0.50.252,Malicious
+361,TCP,Malware Command,Critical,192.168.100.69,10.0.50.137,Malicious
+769,TCP,Unauthorized Access,Critical,192.168.100.11,10.0.50.244,Malicious
+690,TCP,Data Exfiltration,Critical,192.168.100.240,10.0.50.39,Malicious
+800,ICMP,Data Exfiltration,Critical,192.168.100.154,10.0.50.244,Malicious
+1240,UDP,Botnet Traffic,Critical,192.168.100.250,10.0.50.29,Malicious
+521,UDP,Unauthorized Access,Critical,192.168.100.195,10.0.50.87,Malicious
+1250,TCP,DDoS SYN Flood,High,192.168.100.59,10.0.50.244,Malicious
+1276,UDP,Data Exfiltration,Critical,192.168.100.83,10.0.50.108,Malicious
+883,ICMP,Suspicious Payload,Critical,192.168.100.51,10.0.50.126,Malicious
+337,TCP,Malware Command,High,192.168.100.108,10.0.50.231,Malicious
+964,ICMP,Suspicious Payload,High,192.168.100.249,10.0.50.127,Malicious
+665,UDP,ARP Spoofing,High,192.168.100.8,10.0.50.152,Malicious
+882,ICMP,Port Scan,Critical,192.168.100.51,10.0.50.46,Malicious
+1183,UDP,ARP Spoofing,Critical,192.168.100.248,10.0.50.109,Malicious
+560,ICMP,Brute Force Login,High,192.168.100.194,10.0.50.76,Malicious
+256,TCP,ARP Spoofing,High,192.168.100.122,10.0.50.75,Malicious
+738,UDP,SQL Injection,Critical,192.168.100.178,10.0.50.56,Malicious
+1341,ICMP,Port Scan,Critical,192.168.100.166,10.0.50.158,Malicious
+894,TCP,Unauthorized Access,High,192.168.100.97,10.0.50.156,Malicious
+909,UDP,Botnet Traffic,Critical,192.168.100.180,10.0.50.155,Malicious
+1089,TCP,Unauthorized Access,Critical,192.168.100.74,10.0.50.116,Malicious
+1091,ICMP,Malware Command,Critical,192.168.100.155,10.0.50.192,Malicious
+982,UDP,Suspicious Payload,High,192.168.100.132,10.0.50.245,Malicious
+865,UDP,Botnet Traffic,Critical,192.168.100.85,10.0.50.237,Malicious
+731,TCP,SQL Injection,Critical,192.168.100.205,10.0.50.116,Malicious
+1097,TCP,Malware Command,Critical,192.168.100.128,10.0.50.197,Malicious
+1017,TCP,Data Exfiltration,High,192.168.100.230,10.0.50.76,Malicious
+1098,UDP,Brute Force Login,Critical,192.168.100.100,10.0.50.199,Malicious
+478,UDP,Data Exfiltration,Critical,192.168.100.243,10.0.50.204,Malicious
+689,ICMP,Unauthorized Access,Critical,192.168.100.99,10.0.50.252,Malicious
+880,UDP,Suspicious Payload,High,192.168.100.120,10.0.50.139,Malicious
+1167,ICMP,Brute Force Login,High,192.168.100.186,10.0.50.130,Malicious
+240,TCP,Brute Force Login,High,192.168.100.159,10.0.50.42,Malicious
+909,ICMP,Malware Command,High,192.168.100.162,10.0.50.51,Malicious
+1065,UDP,Botnet Traffic,High,192.168.100.246,10.0.50.125,Malicious
+298,UDP,Brute Force Login,Critical,192.168.100.45,10.0.50.83,Malicious
+1032,TCP,Brute Force Login,High,192.168.100.63,10.0.50.244,Malicious
+585,ICMP,Data Exfiltration,Critical,192.168.100.243,10.0.50.210,Malicious
+473,UDP,Malware Command,Critical,192.168.100.102,10.0.50.7,Malicious
+244,ICMP,Malware Command,High,192.168.100.223,10.0.50.67,Malicious
+537,UDP,Data Exfiltration,Critical,192.168.100.155,10.0.50.222,Malicious
+603,UDP,Malware Command,High,192.168.100.148,10.0.50.202,Malicious
+1118,ICMP,ARP Spoofing,Critical,192.168.100.83,10.0.50.187,Malicious
+950,TCP,Unauthorized Access,High,192.168.100.218,10.0.50.8,Malicious
+724,TCP,Port Scan,Critical,192.168.100.215,10.0.50.254,Malicious
+201,ICMP,Port Scan,Critical,192.168.100.98,10.0.50.72,Malicious
+980,ICMP,Brute Force Login,High,192.168.100.4,10.0.50.167,Malicious
+1377,ICMP,Suspicious Payload,Critical,192.168.100.238,10.0.50.194,Malicious
+1104,UDP,Brute Force Login,Critical,192.168.100.133,10.0.50.185,Malicious
+1130,TCP,SQL Injection,Critical,192.168.100.245,10.0.50.251,Malicious
+318,UDP,Brute Force Login,High,192.168.100.108,10.0.50.201,Malicious
+682,TCP,Unauthorized Access,High,192.168.100.253,10.0.50.45,Malicious
+565,ICMP,Data Exfiltration,High,192.168.100.195,10.0.50.36,Malicious
+762,UDP,Botnet Traffic,Critical,192.168.100.104,10.0.50.29,Malicious
+280,ICMP,Malware Command,High,192.168.100.35,10.0.50.21,Malicious
+1453,ICMP,Malware Command,High,192.168.100.25,10.0.50.24,Malicious
+856,TCP,Botnet Traffic,High,192.168.100.34,10.0.50.128,Malicious
+961,ICMP,SQL Injection,Critical,192.168.100.205,10.0.50.83,Malicious
+795,TCP,Brute Force Login,Critical,192.168.100.97,10.0.50.229,Malicious
+409,UDP,Malware Command,High,192.168.100.140,10.0.50.17,Malicious
+1417,ICMP,SQL Injection,High,192.168.100.155,10.0.50.100,Malicious
+497,ICMP,Port Scan,High,192.168.100.28,10.0.50.199,Malicious
+1365,UDP,Data Exfiltration,High,192.168.100.77,10.0.50.103,Malicious
+1477,ICMP,Data Exfiltration,Critical,192.168.100.29,10.0.50.247,Malicious
+1461,UDP,Unauthorized Access,High,192.168.100.134,10.0.50.18,Malicious
+338,UDP,ARP Spoofing,Critical,192.168.100.52,10.0.50.131,Malicious
+714,TCP,ARP Spoofing,High,192.168.100.14,10.0.50.227,Malicious
+1082,TCP,DDoS SYN Flood,High,192.168.100.17,10.0.50.142,Malicious
+834,ICMP,Suspicious Payload,High,192.168.100.218,10.0.50.36,Malicious
+298,ICMP,Unauthorized Access,High,192.168.100.42,10.0.50.51,Malicious
+742,ICMP,ARP Spoofing,High,192.168.100.81,10.0.50.49,Malicious
+1488,TCP,ARP Spoofing,Critical,192.168.100.21,10.0.50.242,Malicious
+1437,ICMP,Data Exfiltration,High,192.168.100.11,10.0.50.174,Malicious
+890,ICMP,Data Exfiltration,High,192.168.100.254,10.0.50.183,Malicious
+221,UDP,Data Exfiltration,High,192.168.100.28,10.0.50.195,Malicious
+1082,UDP,Suspicious Payload,Critical,192.168.100.6,10.0.50.64,Malicious
+1419,ICMP,Botnet Traffic,High,192.168.100.186,10.0.50.139,Malicious
+576,UDP,Botnet Traffic,High,192.168.100.13,10.0.50.232,Malicious
+1245,ICMP,DDoS SYN Flood,Critical,192.168.100.235,10.0.50.60,Malicious
+711,ICMP,Port Scan,Critical,192.168.100.83,10.0.50.44,Malicious
+225,ICMP,Suspicious Payload,Critical,192.168.100.109,10.0.50.125,Malicious
+612,TCP,Port Scan,Critical,192.168.100.252,10.0.50.48,Malicious
+491,ICMP,Malware Command,High,192.168.100.165,10.0.50.1,Malicious
+318,TCP,DDoS SYN Flood,High,192.168.100.133,10.0.50.63,Malicious
+377,UDP,SQL Injection,High,192.168.100.11,10.0.50.146,Malicious
+290,UDP,SQL Injection,High,192.168.100.212,10.0.50.63,Malicious
+549,ICMP,Suspicious Payload,High,192.168.100.210,10.0.50.111,Malicious
+1114,ICMP,Data Exfiltration,Critical,192.168.100.192,10.0.50.89,Malicious
+936,ICMP,SQL Injection,Critical,192.168.100.92,10.0.50.125,Malicious
+1002,UDP,ARP Spoofing,High,192.168.100.69,10.0.50.153,Malicious
+1178,ICMP,ARP Spoofing,High,192.168.100.105,10.0.50.9,Malicious
+311,ICMP,SQL Injection,High,192.168.100.171,10.0.50.52,Malicious
+1425,TCP,Data Exfiltration,High,192.168.100.218,10.0.50.42,Malicious
+628,UDP,Suspicious Payload,Critical,192.168.100.80,10.0.50.25,Malicious
+1346,UDP,Botnet Traffic,High,192.168.100.150,10.0.50.239,Malicious
+1306,UDP,DDoS SYN Flood,High,192.168.100.200,10.0.50.186,Malicious
+569,ICMP,DDoS SYN Flood,High,192.168.100.210,10.0.50.205,Malicious
+701,UDP,Data Exfiltration,High,192.168.100.101,10.0.50.204,Malicious
+798,ICMP,DDoS SYN Flood,High,192.168.100.55,10.0.50.198,Malicious
+1237,ICMP,Brute Force Login,High,192.168.100.191,10.0.50.2,Malicious
+1295,UDP,Brute Force Login,Critical,192.168.100.166,10.0.50.123,Malicious
+1257,TCP,Brute Force Login,High,192.168.100.175,10.0.50.65,Malicious
+467,TCP,Brute Force Login,Critical,192.168.100.54,10.0.50.149,Malicious
+758,ICMP,ARP Spoofing,High,192.168.100.34,10.0.50.205,Malicious
+1140,ICMP,ARP Spoofing,Critical,192.168.100.244,10.0.50.192,Malicious
+388,UDP,Botnet Traffic,High,192.168.100.205,10.0.50.248,Malicious
+488,TCP,Port Scan,High,192.168.100.68,10.0.50.142,Malicious
+784,TCP,Botnet Traffic,Critical,192.168.100.119,10.0.50.61,Malicious
+293,UDP,SQL Injection,Critical,192.168.100.186,10.0.50.27,Malicious
+999,ICMP,Botnet Traffic,Critical,192.168.100.19,10.0.50.206,Malicious
+293,ICMP,ARP Spoofing,High,192.168.100.148,10.0.50.216,Malicious
+1167,ICMP,Brute Force Login,Critical,192.168.100.133,10.0.50.86,Malicious
+1457,UDP,Suspicious Payload,Critical,192.168.100.103,10.0.50.8,Malicious
+1134,TCP,Botnet Traffic,Critical,192.168.100.5,10.0.50.155,Malicious
+1449,TCP,Brute Force Login,High,192.168.100.40,10.0.50.249,Malicious
+276,UDP,Malware Command,High,192.168.100.156,10.0.50.183,Malicious
+230,TCP,Botnet Traffic,Critical,192.168.100.171,10.0.50.216,Malicious
+683,TCP,Brute Force Login,Critical,192.168.100.1,10.0.50.120,Malicious
+983,ICMP,Brute Force Login,Critical,192.168.100.1,10.0.50.98,Malicious
+1480,TCP,Botnet Traffic,Critical,192.168.100.10,10.0.50.254,Malicious
+647,TCP,Suspicious Payload,High,192.168.100.76,10.0.50.79,Malicious
+318,UDP,SQL Injection,High,192.168.100.151,10.0.50.180,Malicious
+484,UDP,DDoS SYN Flood,Critical,192.168.100.89,10.0.50.17,Malicious
+1330,UDP,Suspicious Payload,Critical,192.168.100.138,10.0.50.236,Malicious
+395,TCP,ARP Spoofing,High,192.168.100.74,10.0.50.75,Malicious
+1485,ICMP,ARP Spoofing,High,192.168.100.96,10.0.50.181,Malicious
+581,TCP,SQL Injection,Critical,192.168.100.134,10.0.50.138,Malicious
+672,TCP,DDoS SYN Flood,High,192.168.100.120,10.0.50.55,Malicious
+719,TCP,SQL Injection,Critical,192.168.100.39,10.0.50.17,Malicious
+1457,TCP,SQL Injection,Critical,192.168.100.188,10.0.50.149,Malicious
+1230,ICMP,Unauthorized Access,Critical,192.168.100.159,10.0.50.186,Malicious
+785,ICMP,Unauthorized Access,Critical,192.168.100.227,10.0.50.73,Malicious
+936,ICMP,DDoS SYN Flood,High,192.168.100.170,10.0.50.44,Malicious
+999,UDP,Port Scan,High,192.168.100.197,10.0.50.60,Malicious
+533,TCP,Data Exfiltration,High,192.168.100.205,10.0.50.233,Malicious
+821,ICMP,DDoS SYN Flood,High,192.168.100.13,10.0.50.203,Malicious
+796,TCP,SQL Injection,High,192.168.100.75,10.0.50.16,Malicious
+1103,ICMP,Unauthorized Access,Critical,192.168.100.111,10.0.50.211,Malicious
+1229,UDP,Malware Command,High,192.168.100.74,10.0.50.169,Malicious
+1215,ICMP,Brute Force Login,High,192.168.100.88,10.0.50.94,Malicious
+1310,UDP,ARP Spoofing,High,192.168.100.124,10.0.50.187,Malicious
+1116,TCP,DDoS SYN Flood,Critical,192.168.100.166,10.0.50.245,Malicious
+1496,TCP,SQL Injection,High,192.168.100.20,10.0.50.162,Malicious
+1318,UDP,Suspicious Payload,Critical,192.168.100.28,10.0.50.98,Malicious
+1401,TCP,SQL Injection,Critical,192.168.100.17,10.0.50.74,Malicious
+627,ICMP,ARP Spoofing,Critical,192.168.100.23,10.0.50.21,Malicious
+1482,UDP,Data Exfiltration,High,192.168.100.15,10.0.50.181,Malicious
+1392,UDP,Unauthorized Access,Critical,192.168.100.158,10.0.50.166,Malicious
+903,TCP,Port Scan,High,192.168.100.146,10.0.50.123,Malicious
+1408,TCP,SQL Injection,Critical,192.168.100.165,10.0.50.45,Malicious
+1002,ICMP,ARP Spoofing,Critical,192.168.100.239,10.0.50.222,Malicious
+896,TCP,ARP Spoofing,High,192.168.100.119,10.0.50.119,Malicious
+505,ICMP,Brute Force Login,Critical,192.168.100.185,10.0.50.181,Malicious
+671,TCP,Unauthorized Access,Critical,192.168.100.190,10.0.50.73,Malicious
+706,ICMP,Unauthorized Access,Critical,192.168.100.116,10.0.50.35,Malicious
+1279,UDP,Port Scan,Critical,192.168.100.18,10.0.50.200,Malicious
+794,UDP,DDoS SYN Flood,High,192.168.100.8,10.0.50.63,Malicious
+1172,TCP,ARP Spoofing,Critical,192.168.100.81,10.0.50.188,Malicious
+1351,ICMP,Unauthorized Access,High,192.168.100.203,10.0.50.117,Malicious
+1218,ICMP,Port Scan,Critical,192.168.100.41,10.0.50.151,Malicious
+379,UDP,Malware Command,Critical,192.168.100.229,10.0.50.83,Malicious
+515,UDP,Suspicious Payload,Critical,192.168.100.129,10.0.50.3,Malicious
+210,ICMP,Unauthorized Access,Critical,192.168.100.188,10.0.50.196,Malicious
+1118,UDP,Port Scan,High,192.168.100.102,10.0.50.26,Malicious
+1288,TCP,Suspicious Payload,Critical,192.168.100.93,10.0.50.116,Malicious
+772,UDP,ARP Spoofing,High,192.168.100.239,10.0.50.48,Malicious
+1290,TCP,ARP Spoofing,Critical,192.168.100.45,10.0.50.80,Malicious
+1121,UDP,SQL Injection,High,192.168.100.2,10.0.50.126,Malicious
+1236,TCP,Data Exfiltration,Critical,192.168.100.61,10.0.50.116,Malicious
+850,ICMP,Botnet Traffic,Critical,192.168.100.141,10.0.50.50,Malicious
+324,UDP,DDoS SYN Flood,Critical,192.168.100.217,10.0.50.81,Malicious
+682,TCP,Data Exfiltration,Critical,192.168.100.34,10.0.50.200,Malicious
+760,TCP,Brute Force Login,High,192.168.100.46,10.0.50.220,Malicious
+239,ICMP,Malware Command,Critical,192.168.100.136,10.0.50.110,Malicious
+942,TCP,Unauthorized Access,Critical,192.168.100.236,10.0.50.31,Malicious
+1447,ICMP,Malware Command,Critical,192.168.100.76,10.0.50.220,Malicious
+645,UDP,Unauthorized Access,Critical,192.168.100.19,10.0.50.121,Malicious
+1136,ICMP,Data Exfiltration,High,192.168.100.156,10.0.50.77,Malicious
+1395,TCP,Suspicious Payload,High,192.168.100.223,10.0.50.96,Malicious
+1325,UDP,Brute Force Login,Critical,192.168.100.109,10.0.50.191,Malicious
+858,UDP,SQL Injection,Critical,192.168.100.155,10.0.50.69,Malicious
+414,UDP,ARP Spoofing,High,192.168.100.184,10.0.50.131,Malicious
+1361,TCP,SQL Injection,Critical,192.168.100.96,10.0.50.17,Malicious
+210,ICMP,Data Exfiltration,High,192.168.100.34,10.0.50.177,Malicious
+389,TCP,Unauthorized Access,Critical,192.168.100.135,10.0.50.47,Malicious
+1232,UDP,DDoS SYN Flood,High,192.168.100.166,10.0.50.32,Malicious
+1076,TCP,Unauthorized Access,Critical,192.168.100.153,10.0.50.104,Malicious
+555,TCP,Suspicious Payload,Critical,192.168.100.105,10.0.50.19,Malicious
+586,ICMP,Botnet Traffic,High,192.168.100.99,10.0.50.140,Malicious
+1220,UDP,Botnet Traffic,High,192.168.100.3,10.0.50.185,Malicious
+803,TCP,Data Exfiltration,Critical,192.168.100.108,10.0.50.38,Malicious
+1136,TCP,Data Exfiltration,High,192.168.100.65,10.0.50.117,Malicious
+827,UDP,Data Exfiltration,High,192.168.100.214,10.0.50.159,Malicious
+458,ICMP,Brute Force Login,Critical,192.168.100.239,10.0.50.86,Malicious
+858,UDP,Data Exfiltration,High,192.168.100.163,10.0.50.77,Malicious
+253,TCP,SQL Injection,Critical,192.168.100.205,10.0.50.217,Malicious
+1347,TCP,SQL Injection,High,192.168.100.57,10.0.50.245,Malicious
+806,TCP,Suspicious Payload,Critical,192.168.100.151,10.0.50.224,Malicious
+1444,TCP,Port Scan,High,192.168.100.128,10.0.50.237,Malicious
+230,ICMP,Botnet Traffic,Critical,192.168.100.154,10.0.50.182,Malicious
+955,ICMP,Suspicious Payload,Critical,192.168.100.48,10.0.50.180,Malicious
+819,ICMP,Botnet Traffic,High,192.168.100.33,10.0.50.161,Malicious
+1043,ICMP,DDoS SYN Flood,High,192.168.100.92,10.0.50.23,Malicious
+987,ICMP,Malware Command,High,192.168.100.105,10.0.50.35,Malicious
+1357,TCP,Botnet Traffic,High,192.168.100.78,10.0.50.135,Malicious
+1463,TCP,Unauthorized Access,High,192.168.100.30,10.0.50.218,Malicious
+975,ICMP,Botnet Traffic,High,192.168.100.98,10.0.50.57,Malicious
+1200,TCP,Unauthorized Access,Critical,192.168.100.160,10.0.50.191,Malicious
+1400,UDP,Brute Force Login,Critical,192.168.100.99,10.0.50.107,Malicious
+1393,UDP,ARP Spoofing,High,192.168.100.148,10.0.50.135,Malicious
+1123,ICMP,Port Scan,High,192.168.100.40,10.0.50.149,Malicious
+1272,TCP,DDoS SYN Flood,Critical,192.168.100.117,10.0.50.135,Malicious
+544,TCP,Brute Force Login,High,192.168.100.227,10.0.50.159,Malicious
+747,UDP,Suspicious Payload,Critical,192.168.100.115,10.0.50.26,Malicious
+1275,ICMP,Botnet Traffic,Critical,192.168.100.249,10.0.50.28,Malicious
+1458,UDP,DDoS SYN Flood,Critical,192.168.100.81,10.0.50.180,Malicious
+1443,ICMP,SQL Injection,High,192.168.100.178,10.0.50.193,Malicious
+321,TCP,Suspicious Payload,High,192.168.100.154,10.0.50.216,Malicious
+742,UDP,Brute Force Login,High,192.168.100.215,10.0.50.62,Malicious
+305,TCP,Suspicious Payload,Critical,192.168.100.49,10.0.50.228,Malicious
+809,UDP,SQL Injection,Critical,192.168.100.168,10.0.50.86,Malicious
+546,TCP,Malware Command,High,192.168.100.111,10.0.50.169,Malicious
+455,ICMP,Botnet Traffic,High,192.168.100.218,10.0.50.112,Malicious
+508,UDP,Brute Force Login,High,192.168.100.159,10.0.50.222,Malicious
+1028,ICMP,Brute Force Login,Critical,192.168.100.197,10.0.50.41,Malicious
+345,TCP,Data Exfiltration,High,192.168.100.237,10.0.50.252,Malicious
+365,UDP,Data Exfiltration,Critical,192.168.100.48,10.0.50.250,Malicious
+695,TCP,DDoS SYN Flood,High,192.168.100.244,10.0.50.74,Malicious
+700,ICMP,Data Exfiltration,High,192.168.100.72,10.0.50.44,Malicious
+1385,UDP,Suspicious Payload,Critical,192.168.100.16,10.0.50.69,Malicious
+297,TCP,Malware Command,Critical,192.168.100.91,10.0.50.60,Malicious
+218,TCP,Port Scan,Critical,192.168.100.32,10.0.50.140,Malicious
+335,UDP,Suspicious Payload,Critical,192.168.100.146,10.0.50.229,Malicious
+678,UDP,ARP Spoofing,High,192.168.100.18,10.0.50.143,Malicious
+745,UDP,DDoS SYN Flood,Critical,192.168.100.51,10.0.50.47,Malicious
+690,TCP,Port Scan,Critical,192.168.100.228,10.0.50.165,Malicious
+996,TCP,Malware Command,High,192.168.100.85,10.0.50.175,Malicious
+984,ICMP,Brute Force Login,Critical,192.168.100.221,10.0.50.85,Malicious
+696,TCP,Malware Command,Critical,192.168.100.248,10.0.50.39,Malicious
+972,ICMP,SQL Injection,High,192.168.100.146,10.0.50.217,Malicious
+424,TCP,DDoS SYN Flood,Critical,192.168.100.162,10.0.50.38,Malicious
+863,ICMP,Brute Force Login,High,192.168.100.19,10.0.50.135,Malicious
+1223,TCP,Suspicious Payload,Critical,192.168.100.193,10.0.50.254,Malicious
+577,ICMP,Data Exfiltration,High,192.168.100.123,10.0.50.84,Malicious
+689,ICMP,Unauthorized Access,Critical,192.168.100.49,10.0.50.184,Malicious
+1412,TCP,Port Scan,Critical,192.168.100.254,10.0.50.230,Malicious
+1327,UDP,Unauthorized Access,High,192.168.100.221,10.0.50.141,Malicious
+1425,ICMP,SQL Injection,Critical,192.168.100.240,10.0.50.98,Malicious
+746,UDP,Malware Command,High,192.168.100.196,10.0.50.250,Malicious
+1023,UDP,Data Exfiltration,High,192.168.100.28,10.0.50.83,Malicious
+497,UDP,DDoS SYN Flood,Critical,192.168.100.221,10.0.50.203,Malicious
+1221,ICMP,Brute Force Login,Critical,192.168.100.155,10.0.50.85,Malicious
+958,ICMP,Malware Command,Critical,192.168.100.39,10.0.50.182,Malicious
+1424,ICMP,Brute Force Login,Critical,192.168.100.39,10.0.50.102,Malicious
+1212,ICMP,Malware Command,Critical,192.168.100.179,10.0.50.178,Malicious
+972,UDP,Port Scan,Critical,192.168.100.3,10.0.50.98,Malicious
+275,UDP,ARP Spoofing,Critical,192.168.100.90,10.0.50.83,Malicious
+1477,TCP,Unauthorized Access,Critical,192.168.100.37,10.0.50.134,Malicious
+334,UDP,SQL Injection,High,192.168.100.108,10.0.50.4,Malicious
+975,ICMP,Unauthorized Access,High,192.168.100.233,10.0.50.116,Malicious
+569,TCP,Unauthorized Access,High,192.168.100.52,10.0.50.47,Malicious
+363,ICMP,Suspicious Payload,Critical,192.168.100.96,10.0.50.232,Malicious
+957,UDP,ARP Spoofing,High,192.168.100.123,10.0.50.25,Malicious
+654,ICMP,Malware Command,High,192.168.100.106,10.0.50.164,Malicious
+1129,TCP,DDoS SYN Flood,Critical,192.168.100.71,10.0.50.159,Malicious
+268,UDP,ARP Spoofing,Critical,192.168.100.4,10.0.50.133,Malicious
+1033,ICMP,Data Exfiltration,Critical,192.168.100.117,10.0.50.124,Malicious
+1447,TCP,ARP Spoofing,High,192.168.100.169,10.0.50.94,Malicious
+309,UDP,Suspicious Payload,High,192.168.100.225,10.0.50.112,Malicious
+1269,UDP,SQL Injection,Critical,192.168.100.179,10.0.50.136,Malicious
+456,TCP,Data Exfiltration,High,192.168.100.40,10.0.50.218,Malicious
+452,UDP,Malware Command,Critical,192.168.100.87,10.0.50.76,Malicious
+572,ICMP,Unauthorized Access,High,192.168.100.69,10.0.50.241,Malicious
+323,ICMP,Malware Command,Critical,192.168.100.254,10.0.50.228,Malicious
+877,UDP,DDoS SYN Flood,Critical,192.168.100.141,10.0.50.144,Malicious
+1101,UDP,Unauthorized Access,High,192.168.100.79,10.0.50.146,Malicious
+272,UDP,Unauthorized Access,High,192.168.100.192,10.0.50.104,Malicious
+708,ICMP,SQL Injection,Critical,192.168.100.227,10.0.50.153,Malicious
+1214,TCP,Unauthorized Access,High,192.168.100.115,10.0.50.47,Malicious
+1406,ICMP,SQL Injection,High,192.168.100.30,10.0.50.213,Malicious
+1395,TCP,Botnet Traffic,Critical,192.168.100.196,10.0.50.106,Malicious
+264,ICMP,DDoS SYN Flood,Critical,192.168.100.199,10.0.50.180,Malicious
+528,TCP,Data Exfiltration,Critical,192.168.100.120,10.0.50.34,Malicious
+1215,TCP,Port Scan,High,192.168.100.115,10.0.50.166,Malicious
+917,TCP,Suspicious Payload,Critical,192.168.100.24,10.0.50.225,Malicious
+314,UDP,ARP Spoofing,Critical,192.168.100.176,10.0.50.195,Malicious
+1214,ICMP,Unauthorized Access,Critical,192.168.100.230,10.0.50.58,Malicious
+553,ICMP,DDoS SYN Flood,High,192.168.100.213,10.0.50.139,Malicious
+233,ICMP,Port Scan,Critical,192.168.100.159,10.0.50.25,Malicious
+627,UDP,SQL Injection,Critical,192.168.100.19,10.0.50.40,Malicious
+666,ICMP,DDoS SYN Flood,Critical,192.168.100.56,10.0.50.61,Malicious
+237,ICMP,Unauthorized Access,High,192.168.100.190,10.0.50.158,Malicious
+228,TCP,Malware Command,Critical,192.168.100.118,10.0.50.241,Malicious
+1497,ICMP,Malware Command,Critical,192.168.100.60,10.0.50.119,Malicious
+1432,UDP,Port Scan,High,192.168.100.164,10.0.50.117,Malicious
+1466,TCP,SQL Injection,High,192.168.100.159,10.0.50.222,Malicious
+990,UDP,Data Exfiltration,Critical,192.168.100.140,10.0.50.229,Malicious
+495,ICMP,Data Exfiltration,High,192.168.100.21,10.0.50.193,Malicious
+1342,ICMP,DDoS SYN Flood,High,192.168.100.87,10.0.50.219,Malicious
+536,TCP,Botnet Traffic,High,192.168.100.101,10.0.50.238,Malicious
+1151,TCP,Port Scan,High,192.168.100.109,10.0.50.102,Malicious
+687,TCP,Botnet Traffic,Critical,192.168.100.200,10.0.50.192,Malicious
+769,UDP,Botnet Traffic,Critical,192.168.100.93,10.0.50.248,Malicious
+1251,UDP,Unauthorized Access,High,192.168.100.221,10.0.50.30,Malicious
+429,TCP,Data Exfiltration,Critical,192.168.100.252,10.0.50.66,Malicious
+655,ICMP,Data Exfiltration,High,192.168.100.43,10.0.50.137,Malicious
+1496,TCP,Suspicious Payload,Critical,192.168.100.213,10.0.50.148,Malicious
+1112,TCP,SQL Injection,Critical,192.168.100.246,10.0.50.90,Malicious
+587,TCP,Botnet Traffic,High,192.168.100.50,10.0.50.41,Malicious
+632,UDP,Botnet Traffic,Critical,192.168.100.144,10.0.50.203,Malicious
+1022,TCP,SQL Injection,Critical,192.168.100.97,10.0.50.188,Malicious
+1154,UDP,Suspicious Payload,Critical,192.168.100.98,10.0.50.153,Malicious
+726,TCP,Data Exfiltration,Critical,192.168.100.126,10.0.50.63,Malicious
+711,TCP,Data Exfiltration,High,192.168.100.56,10.0.50.184,Malicious
+1437,UDP,ARP Spoofing,High,192.168.100.244,10.0.50.129,Malicious
+378,TCP,ARP Spoofing,Critical,192.168.100.86,10.0.50.75,Malicious
+540,ICMP,Brute Force Login,Critical,192.168.100.128,10.0.50.252,Malicious
+1262,UDP,Malware Command,High,192.168.100.196,10.0.50.101,Malicious
+254,ICMP,Port Scan,Critical,192.168.100.67,10.0.50.241,Malicious
+874,UDP,Suspicious Payload,Critical,192.168.100.170,10.0.50.171,Malicious
+226,UDP,Botnet Traffic,Critical,192.168.100.211,10.0.50.51,Malicious
+1385,ICMP,Port Scan,High,192.168.100.19,10.0.50.100,Malicious
+387,TCP,ARP Spoofing,Critical,192.168.100.12,10.0.50.115,Malicious
+788,ICMP,Brute Force Login,High,192.168.100.145,10.0.50.183,Malicious
+556,ICMP,DDoS SYN Flood,High,192.168.100.186,10.0.50.166,Malicious
+1095,UDP,Port Scan,Critical,192.168.100.126,10.0.50.86,Malicious
+955,TCP,Botnet Traffic,High,192.168.100.216,10.0.50.96,Malicious
+1490,UDP,Brute Force Login,High,192.168.100.150,10.0.50.42,Malicious
+1348,ICMP,Suspicious Payload,Critical,192.168.100.83,10.0.50.168,Malicious
+486,ICMP,Botnet Traffic,Critical,192.168.100.147,10.0.50.240,Malicious
+833,UDP,SQL Injection,Critical,192.168.100.247,10.0.50.247,Malicious
+1055,TCP,Port Scan,High,192.168.100.170,10.0.50.38,Malicious
+393,UDP,Unauthorized Access,High,192.168.100.176,10.0.50.167,Malicious
+935,TCP,Malware Command,High,192.168.100.144,10.0.50.71,Malicious
+1362,TCP,Unauthorized Access,Critical,192.168.100.58,10.0.50.157,Malicious
+920,TCP,Data Exfiltration,High,192.168.100.149,10.0.50.51,Malicious
+513,TCP,Data Exfiltration,Critical,192.168.100.119,10.0.50.157,Malicious
+870,TCP,ARP Spoofing,High,192.168.100.215,10.0.50.198,Malicious
+958,TCP,SQL Injection,High,192.168.100.128,10.0.50.229,Malicious
+836,UDP,DDoS SYN Flood,High,192.168.100.23,10.0.50.244,Malicious
+1249,UDP,Botnet Traffic,High,192.168.100.198,10.0.50.105,Malicious
+1435,UDP,Port Scan,High,192.168.100.105,10.0.50.39,Malicious
+1434,UDP,Port Scan,High,192.168.100.227,10.0.50.15,Malicious
+1131,TCP,Data Exfiltration,Critical,192.168.100.248,10.0.50.244,Malicious
+1382,UDP,Port Scan,High,192.168.100.191,10.0.50.196,Malicious
+1134,TCP,Unauthorized Access,Critical,192.168.100.208,10.0.50.72,Malicious
+1371,ICMP,Botnet Traffic,Critical,192.168.100.249,10.0.50.211,Malicious
+1161,UDP,Suspicious Payload,Critical,192.168.100.150,10.0.50.31,Malicious
+514,TCP,Malware Command,High,192.168.100.182,10.0.50.93,Malicious
+566,UDP,Port Scan,Critical,192.168.100.82,10.0.50.171,Malicious
+495,TCP,DDoS SYN Flood,High,192.168.100.1,10.0.50.104,Malicious
+203,ICMP,Botnet Traffic,High,192.168.100.129,10.0.50.48,Malicious
+734,ICMP,Brute Force Login,High,192.168.100.13,10.0.50.244,Malicious
+738,UDP,Unauthorized Access,Critical,192.168.100.9,10.0.50.229,Malicious
+1359,TCP,SQL Injection,High,192.168.100.54,10.0.50.114,Malicious
+1011,UDP,ARP Spoofing,Critical,192.168.100.127,10.0.50.249,Malicious
+822,UDP,DDoS SYN Flood,High,192.168.100.79,10.0.50.145,Malicious
+1406,TCP,Brute Force Login,Critical,192.168.100.47,10.0.50.194,Malicious
+1004,ICMP,Unauthorized Access,Critical,192.168.100.35,10.0.50.128,Malicious
+1083,TCP,Data Exfiltration,High,192.168.100.148,10.0.50.161,Malicious
+375,ICMP,ARP Spoofing,Critical,192.168.100.101,10.0.50.75,Malicious
+1048,UDP,Botnet Traffic,Critical,192.168.100.75,10.0.50.204,Malicious
+332,ICMP,Data Exfiltration,Critical,192.168.100.205,10.0.50.24,Malicious
+1249,TCP,Brute Force Login,Critical,192.168.100.160,10.0.50.240,Malicious
+588,ICMP,Data Exfiltration,High,192.168.100.249,10.0.50.27,Malicious
+790,ICMP,Port Scan,Critical,192.168.100.213,10.0.50.159,Malicious
+577,TCP,ARP Spoofing,High,192.168.100.26,10.0.50.228,Malicious
+447,TCP,Brute Force Login,Critical,192.168.100.148,10.0.50.40,Malicious
+1314,ICMP,Brute Force Login,Critical,192.168.100.140,10.0.50.53,Malicious
+1148,UDP,Suspicious Payload,Critical,192.168.100.164,10.0.50.251,Malicious
+898,ICMP,Suspicious Payload,Critical,192.168.100.229,10.0.50.48,Malicious
+869,ICMP,Brute Force Login,High,192.168.100.249,10.0.50.161,Malicious
+646,UDP,Port Scan,Critical,192.168.100.171,10.0.50.45,Malicious
+304,UDP,ARP Spoofing,High,192.168.100.64,10.0.50.141,Malicious
+688,UDP,Malware Command,Critical,192.168.100.21,10.0.50.217,Malicious
+1444,ICMP,Data Exfiltration,Critical,192.168.100.102,10.0.50.92,Malicious
+680,UDP,Botnet Traffic,High,192.168.100.124,10.0.50.150,Malicious
+976,ICMP,Botnet Traffic,Critical,192.168.100.232,10.0.50.215,Malicious
+1423,TCP,Brute Force Login,Critical,192.168.100.53,10.0.50.43,Malicious
+1028,TCP,Brute Force Login,High,192.168.100.207,10.0.50.207,Malicious
+1384,UDP,Port Scan,Critical,192.168.100.54,10.0.50.212,Malicious
+1249,ICMP,Botnet Traffic,Critical,192.168.100.133,10.0.50.181,Malicious
+482,TCP,Unauthorized Access,Critical,192.168.100.43,10.0.50.246,Malicious
+1354,ICMP,Data Exfiltration,High,192.168.100.48,10.0.50.139,Malicious
+1088,ICMP,Botnet Traffic,High,192.168.100.197,10.0.50.56,Malicious
+1299,ICMP,ARP Spoofing,Critical,192.168.100.48,10.0.50.197,Malicious
+1205,UDP,Botnet Traffic,Critical,192.168.100.69,10.0.50.98,Malicious
+474,TCP,SQL Injection,Critical,192.168.100.92,10.0.50.226,Malicious
+969,TCP,Botnet Traffic,Critical,192.168.100.209,10.0.50.5,Malicious
+778,UDP,Port Scan,Critical,192.168.100.171,10.0.50.100,Malicious
+981,UDP,Suspicious Payload,High,192.168.100.86,10.0.50.80,Malicious
+1060,TCP,Botnet Traffic,Critical,192.168.100.3,10.0.50.238,Malicious
+740,ICMP,SQL Injection,High,192.168.100.101,10.0.50.190,Malicious
+942,UDP,Data Exfiltration,High,192.168.100.117,10.0.50.205,Malicious
+1239,UDP,Data Exfiltration,Critical,192.168.100.88,10.0.50.219,Malicious
+1268,TCP,Botnet Traffic,High,192.168.100.83,10.0.50.192,Malicious
+934,ICMP,Botnet Traffic,Critical,192.168.100.70,10.0.50.129,Malicious
+953,UDP,Brute Force Login,High,192.168.100.222,10.0.50.235,Malicious
+937,UDP,Suspicious Payload,Critical,192.168.100.1,10.0.50.35,Malicious
+542,TCP,Suspicious Payload,Critical,192.168.100.110,10.0.50.121,Malicious
+481,UDP,Unauthorized Access,Critical,192.168.100.88,10.0.50.244,Malicious
+629,UDP,DDoS SYN Flood,Critical,192.168.100.191,10.0.50.173,Malicious
+802,ICMP,Port Scan,High,192.168.100.242,10.0.50.211,Malicious
+663,UDP,Botnet Traffic,High,192.168.100.101,10.0.50.252,Malicious
+996,TCP,Malware Command,Critical,192.168.100.80,10.0.50.63,Malicious
+709,TCP,Brute Force Login,Critical,192.168.100.8,10.0.50.246,Malicious
+574,TCP,Suspicious Payload,Critical,192.168.100.166,10.0.50.102,Malicious
+578,TCP,Unauthorized Access,High,192.168.100.204,10.0.50.173,Malicious
+1453,ICMP,Port Scan,High,192.168.100.41,10.0.50.182,Malicious
+1180,TCP,Data Exfiltration,High,192.168.100.27,10.0.50.167,Malicious
+1082,ICMP,Brute Force Login,High,192.168.100.96,10.0.50.88,Malicious
+737,ICMP,Data Exfiltration,High,192.168.100.208,10.0.50.221,Malicious
+523,ICMP,Suspicious Payload,Critical,192.168.100.248,10.0.50.22,Malicious
+334,ICMP,Botnet Traffic,Critical,192.168.100.83,10.0.50.236,Malicious
+1365,UDP,Unauthorized Access,Critical,192.168.100.45,10.0.50.97,Malicious
+833,ICMP,Botnet Traffic,Critical,192.168.100.90,10.0.50.103,Malicious
+544,ICMP,Malware Command,High,192.168.100.202,10.0.50.180,Malicious
+816,TCP,SQL Injection,Critical,192.168.100.67,10.0.50.229,Malicious
+548,UDP,Data Exfiltration,Critical,192.168.100.189,10.0.50.223,Malicious
+1035,TCP,Suspicious Payload,Critical,192.168.100.153,10.0.50.130,Malicious
+1365,UDP,DDoS SYN Flood,Critical,192.168.100.64,10.0.50.28,Malicious
+1498,TCP,Botnet Traffic,Critical,192.168.100.32,10.0.50.181,Malicious
+675,ICMP,Port Scan,High,192.168.100.77,10.0.50.88,Malicious
+207,TCP,DDoS SYN Flood,Critical,192.168.100.121,10.0.50.201,Malicious
+1331,TCP,Suspicious Payload,High,192.168.100.243,10.0.50.123,Malicious
+743,ICMP,ARP Spoofing,High,192.168.100.252,10.0.50.149,Malicious
+278,UDP,Botnet Traffic,High,192.168.100.127,10.0.50.63,Malicious
+777,ICMP,ARP Spoofing,Critical,192.168.100.54,10.0.50.135,Malicious
+760,TCP,Suspicious Payload,Critical,192.168.100.95,10.0.50.91,Malicious
+1283,UDP,Brute Force Login,High,192.168.100.149,10.0.50.122,Malicious
+965,ICMP,ARP Spoofing,High,192.168.100.245,10.0.50.202,Malicious
+483,TCP,Malware Command,High,192.168.100.53,10.0.50.119,Malicious
+1370,UDP,Brute Force Login,Critical,192.168.100.135,10.0.50.160,Malicious
+747,ICMP,Unauthorized Access,High,192.168.100.211,10.0.50.15,Malicious
+602,ICMP,Port Scan,High,192.168.100.194,10.0.50.246,Malicious
+639,ICMP,Suspicious Payload,Critical,192.168.100.38,10.0.50.163,Malicious
+477,TCP,ARP Spoofing,Critical,192.168.100.225,10.0.50.96,Malicious
+1473,ICMP,Botnet Traffic,Critical,192.168.100.58,10.0.50.29,Malicious
+343,TCP,SQL Injection,Critical,192.168.100.121,10.0.50.128,Malicious
+1039,ICMP,ARP Spoofing,High,192.168.100.169,10.0.50.233,Malicious
+241,ICMP,Data Exfiltration,High,192.168.100.11,10.0.50.17,Malicious
+719,ICMP,Brute Force Login,High,192.168.100.144,10.0.50.70,Malicious
+324,ICMP,ARP Spoofing,Critical,192.168.100.199,10.0.50.154,Malicious
+324,ICMP,Unauthorized Access,High,192.168.100.227,10.0.50.35,Malicious
+1449,UDP,SQL Injection,High,192.168.100.191,10.0.50.81,Malicious
+1208,TCP,Unauthorized Access,High,192.168.100.5,10.0.50.105,Malicious
+579,ICMP,Brute Force Login,High,192.168.100.147,10.0.50.113,Malicious
+1328,ICMP,Botnet Traffic,High,192.168.100.180,10.0.50.172,Malicious
+904,ICMP,SQL Injection,High,192.168.100.72,10.0.50.92,Malicious
+562,ICMP,SQL Injection,Critical,192.168.100.213,10.0.50.57,Malicious
+1070,UDP,ARP Spoofing,Critical,192.168.100.12,10.0.50.81,Malicious
+1309,ICMP,Unauthorized Access,Critical,192.168.100.55,10.0.50.8,Malicious
+1065,TCP,Unauthorized Access,High,192.168.100.214,10.0.50.169,Malicious
+1340,TCP,Botnet Traffic,High,192.168.100.25,10.0.50.226,Malicious
+1362,ICMP,Unauthorized Access,Critical,192.168.100.81,10.0.50.59,Malicious
+1223,ICMP,ARP Spoofing,Critical,192.168.100.45,10.0.50.229,Malicious
+1307,ICMP,ARP Spoofing,High,192.168.100.9,10.0.50.27,Malicious
+679,TCP,DDoS SYN Flood,Critical,192.168.100.10,10.0.50.248,Malicious
+309,ICMP,ARP Spoofing,Critical,192.168.100.60,10.0.50.102,Malicious
+424,ICMP,Suspicious Payload,Critical,192.168.100.187,10.0.50.247,Malicious
+1420,TCP,ARP Spoofing,Critical,192.168.100.172,10.0.50.38,Malicious
+277,ICMP,Botnet Traffic,High,192.168.100.137,10.0.50.230,Malicious
+630,UDP,ARP Spoofing,High,192.168.100.45,10.0.50.103,Malicious
+505,TCP,Malware Command,Critical,192.168.100.102,10.0.50.202,Malicious
+693,TCP,Malware Command,Critical,192.168.100.104,10.0.50.93,Malicious
+578,UDP,Data Exfiltration,High,192.168.100.18,10.0.50.253,Malicious
+1160,TCP,Unauthorized Access,High,192.168.100.26,10.0.50.211,Malicious
+544,ICMP,DDoS SYN Flood,Critical,192.168.100.134,10.0.50.167,Malicious
+1168,TCP,Port Scan,High,192.168.100.191,10.0.50.126,Malicious
+1198,ICMP,Suspicious Payload,High,192.168.100.93,10.0.50.209,Malicious
+1083,UDP,Port Scan,Critical,192.168.100.199,10.0.50.216,Malicious
+245,TCP,Port Scan,High,192.168.100.153,10.0.50.227,Malicious
+1324,UDP,DDoS SYN Flood,High,192.168.100.11,10.0.50.200,Malicious
+1323,ICMP,ARP Spoofing,Critical,192.168.100.195,10.0.50.153,Malicious
+1375,ICMP,DDoS SYN Flood,High,192.168.100.142,10.0.50.252,Malicious
+1249,UDP,Suspicious Payload,Critical,192.168.100.140,10.0.50.138,Malicious
+235,TCP,ARP Spoofing,Critical,192.168.100.135,10.0.50.131,Malicious
+1238,ICMP,SQL Injection,Critical,192.168.100.239,10.0.50.175,Malicious
+913,UDP,ARP Spoofing,Critical,192.168.100.158,10.0.50.32,Malicious
+1098,UDP,Botnet Traffic,Critical,192.168.100.237,10.0.50.184,Malicious
+1100,UDP,Brute Force Login,High,192.168.100.140,10.0.50.85,Malicious
+996,UDP,SQL Injection,Critical,192.168.100.222,10.0.50.168,Malicious
+633,TCP,DDoS SYN Flood,High,192.168.100.149,10.0.50.202,Malicious
+1203,TCP,Data Exfiltration,Critical,192.168.100.214,10.0.50.38,Malicious
+720,ICMP,ARP Spoofing,High,192.168.100.139,10.0.50.48,Malicious
+849,TCP,SQL Injection,High,192.168.100.220,10.0.50.21,Malicious
+464,TCP,Botnet Traffic,High,192.168.100.74,10.0.50.93,Malicious
+710,UDP,Data Exfiltration,High,192.168.100.55,10.0.50.122,Malicious
+429,UDP,Data Exfiltration,High,192.168.100.230,10.0.50.73,Malicious
+633,TCP,Botnet Traffic,High,192.168.100.49,10.0.50.33,Malicious
+1320,TCP,Brute Force Login,High,192.168.100.43,10.0.50.2,Malicious
+800,ICMP,DDoS SYN Flood,Critical,192.168.100.233,10.0.50.216,Malicious
+1178,TCP,Suspicious Payload,High,192.168.100.234,10.0.50.4,Malicious
+1028,ICMP,Port Scan,High,192.168.100.105,10.0.50.115,Malicious
+515,UDP,Data Exfiltration,Critical,192.168.100.81,10.0.50.76,Malicious
+825,ICMP,Port Scan,High,192.168.100.200,10.0.50.212,Malicious
+531,TCP,Port Scan,Critical,192.168.100.250,10.0.50.51,Malicious
+1072,UDP,DDoS SYN Flood,Critical,192.168.100.93,10.0.50.226,Malicious
+1188,ICMP,SQL Injection,High,192.168.100.25,10.0.50.180,Malicious
+616,TCP,Botnet Traffic,Critical,192.168.100.45,10.0.50.146,Malicious
+584,ICMP,Port Scan,High,192.168.100.215,10.0.50.171,Malicious
+1405,ICMP,Brute Force Login,High,192.168.100.187,10.0.50.213,Malicious
+633,TCP,DDoS SYN Flood,Critical,192.168.100.6,10.0.50.214,Malicious
+387,TCP,Port Scan,Critical,192.168.100.98,10.0.50.174,Malicious
+998,TCP,Unauthorized Access,High,192.168.100.125,10.0.50.141,Malicious
+223,TCP,Malware Command,Critical,192.168.100.152,10.0.50.176,Malicious
+1209,ICMP,ARP Spoofing,High,192.168.100.215,10.0.50.131,Malicious
+930,ICMP,SQL Injection,High,192.168.100.166,10.0.50.109,Malicious
+1429,ICMP,Suspicious Payload,High,192.168.100.138,10.0.50.90,Malicious
+529,TCP,SQL Injection,High,192.168.100.130,10.0.50.110,Malicious
+1235,ICMP,SQL Injection,Critical,192.168.100.84,10.0.50.201,Malicious
+1142,UDP,ARP Spoofing,High,192.168.100.251,10.0.50.232,Malicious
+1464,UDP,Unauthorized Access,Critical,192.168.100.119,10.0.50.20,Malicious
+1450,UDP,Malware Command,High,192.168.100.169,10.0.50.134,Malicious
+626,TCP,ARP Spoofing,High,192.168.100.141,10.0.50.83,Malicious
+618,ICMP,SQL Injection,Critical,192.168.100.151,10.0.50.162,Malicious
+748,ICMP,Data Exfiltration,High,192.168.100.110,10.0.50.44,Malicious
+311,ICMP,ARP Spoofing,High,192.168.100.170,10.0.50.161,Malicious
+1154,TCP,Botnet Traffic,Critical,192.168.100.46,10.0.50.101,Malicious
+925,TCP,Port Scan,High,192.168.100.163,10.0.50.208,Malicious
+1008,UDP,ARP Spoofing,High,192.168.100.53,10.0.50.206,Malicious
+1183,ICMP,ARP Spoofing,High,192.168.100.14,10.0.50.146,Malicious
+784,ICMP,ARP Spoofing,Critical,192.168.100.80,10.0.50.68,Malicious
+445,UDP,Malware Command,Critical,192.168.100.184,10.0.50.232,Malicious
+205,TCP,Data Exfiltration,Critical,192.168.100.47,10.0.50.213,Malicious
+941,ICMP,Suspicious Payload,Critical,192.168.100.115,10.0.50.70,Malicious
+1107,TCP,Brute Force Login,High,192.168.100.201,10.0.50.218,Malicious
+837,TCP,ARP Spoofing,Critical,192.168.100.159,10.0.50.54,Malicious
+427,TCP,Brute Force Login,Critical,192.168.100.134,10.0.50.194,Malicious
+717,ICMP,Botnet Traffic,High,192.168.100.86,10.0.50.105,Malicious
+232,ICMP,Botnet Traffic,Critical,192.168.100.8,10.0.50.228,Malicious
+1181,UDP,Suspicious Payload,Critical,192.168.100.46,10.0.50.224,Malicious
+720,TCP,Suspicious Payload,High,192.168.100.77,10.0.50.158,Malicious
+1483,UDP,Unauthorized Access,Critical,192.168.100.221,10.0.50.132,Malicious
+1017,TCP,Brute Force Login,Critical,192.168.100.197,10.0.50.93,Malicious
+673,TCP,Data Exfiltration,Critical,192.168.100.95,10.0.50.76,Malicious
+273,ICMP,Suspicious Payload,High,192.168.100.56,10.0.50.155,Malicious
+992,TCP,Suspicious Payload,Critical,192.168.100.182,10.0.50.131,Malicious
+1242,UDP,SQL Injection,High,192.168.100.176,10.0.50.14,Malicious
+706,TCP,ARP Spoofing,Critical,192.168.100.35,10.0.50.138,Malicious
+490,ICMP,Unauthorized Access,Critical,192.168.100.115,10.0.50.167,Malicious
+264,TCP,Brute Force Login,High,192.168.100.11,10.0.50.154,Malicious
+205,UDP,Data Exfiltration,Critical,192.168.100.150,10.0.50.98,Malicious
+1219,TCP,Port Scan,High,192.168.100.181,10.0.50.90,Malicious
+1350,ICMP,Botnet Traffic,High,192.168.100.58,10.0.50.60,Malicious
+836,UDP,Brute Force Login,Critical,192.168.100.73,10.0.50.62,Malicious
+893,UDP,SQL Injection,High,192.168.100.252,10.0.50.77,Malicious
+1262,UDP,Data Exfiltration,High,192.168.100.140,10.0.50.242,Malicious
+959,UDP,DDoS SYN Flood,Critical,192.168.100.51,10.0.50.52,Malicious
+578,ICMP,ARP Spoofing,High,192.168.100.36,10.0.50.99,Malicious
+919,UDP,Unauthorized Access,Critical,192.168.100.151,10.0.50.154,Malicious
+860,UDP,Brute Force Login,High,192.168.100.213,10.0.50.101,Malicious
+1062,ICMP,Brute Force Login,High,192.168.100.182,10.0.50.89,Malicious
+618,TCP,ARP Spoofing,High,192.168.100.149,10.0.50.77,Malicious
+844,ICMP,Suspicious Payload,Critical,192.168.100.44,10.0.50.210,Malicious
+1227,UDP,SQL Injection,High,192.168.100.83,10.0.50.9,Malicious
+1316,UDP,Unauthorized Access,High,192.168.100.68,10.0.50.141,Malicious
+766,TCP,Unauthorized Access,Critical,192.168.100.106,10.0.50.66,Malicious
+434,ICMP,Brute Force Login,Critical,192.168.100.207,10.0.50.48,Malicious
+1393,TCP,Suspicious Payload,High,192.168.100.191,10.0.50.17,Malicious
+1241,UDP,Botnet Traffic,Critical,192.168.100.167,10.0.50.173,Malicious
+1241,ICMP,Botnet Traffic,High,192.168.100.161,10.0.50.219,Malicious
+1029,ICMP,Unauthorized Access,Critical,192.168.100.226,10.0.50.217,Malicious
+277,ICMP,Suspicious Payload,High,192.168.100.159,10.0.50.254,Malicious
+804,ICMP,Unauthorized Access,Critical,192.168.100.9,10.0.50.20,Malicious
+1418,TCP,ARP Spoofing,Critical,192.168.100.168,10.0.50.7,Malicious
+742,UDP,SQL Injection,Critical,192.168.100.147,10.0.50.176,Malicious
+1377,ICMP,SQL Injection,High,192.168.100.98,10.0.50.175,Malicious
+1444,ICMP,Port Scan,Critical,192.168.100.182,10.0.50.137,Malicious
+1014,ICMP,SQL Injection,Critical,192.168.100.163,10.0.50.162,Malicious
+957,UDP,Port Scan,High,192.168.100.38,10.0.50.207,Malicious
+1359,ICMP,Port Scan,High,192.168.100.205,10.0.50.231,Malicious
+614,UDP,Malware Command,Critical,192.168.100.195,10.0.50.91,Malicious
+382,TCP,Suspicious Payload,High,192.168.100.46,10.0.50.40,Malicious
+346,ICMP,Brute Force Login,Critical,192.168.100.162,10.0.50.24,Malicious
+224,ICMP,Botnet Traffic,Critical,192.168.100.54,10.0.50.123,Malicious
+787,ICMP,Unauthorized Access,High,192.168.100.195,10.0.50.198,Malicious
+939,TCP,SQL Injection,Critical,192.168.100.136,10.0.50.103,Malicious
+389,TCP,DDoS SYN Flood,High,192.168.100.135,10.0.50.92,Malicious
+1472,TCP,Botnet Traffic,Critical,192.168.100.213,10.0.50.41,Malicious
+1167,ICMP,Botnet Traffic,High,192.168.100.183,10.0.50.226,Malicious
+757,TCP,DDoS SYN Flood,Critical,192.168.100.101,10.0.50.121,Malicious
+1000,ICMP,ARP Spoofing,Critical,192.168.100.11,10.0.50.13,Malicious
+1445,UDP,DDoS SYN Flood,Critical,192.168.100.4,10.0.50.253,Malicious
+973,UDP,Port Scan,High,192.168.100.141,10.0.50.84,Malicious
+992,ICMP,Port Scan,High,192.168.100.140,10.0.50.160,Malicious
+1396,UDP,Suspicious Payload,High,192.168.100.69,10.0.50.13,Malicious
+311,UDP,Malware Command,Critical,192.168.100.27,10.0.50.88,Malicious
+955,ICMP,SQL Injection,Critical,192.168.100.17,10.0.50.105,Malicious
+1070,TCP,Malware Command,Critical,192.168.100.36,10.0.50.88,Malicious
+1081,TCP,DDoS SYN Flood,High,192.168.100.208,10.0.50.94,Malicious
+641,ICMP,Suspicious Payload,High,192.168.100.201,10.0.50.236,Malicious
+1321,UDP,Data Exfiltration,High,192.168.100.50,10.0.50.49,Malicious
+407,UDP,SQL Injection,High,192.168.100.205,10.0.50.57,Malicious
+370,TCP,Data Exfiltration,Critical,192.168.100.21,10.0.50.108,Malicious
+1159,ICMP,Malware Command,High,192.168.100.93,10.0.50.228,Malicious
+703,ICMP,Port Scan,High,192.168.100.76,10.0.50.142,Malicious
+709,ICMP,Botnet Traffic,Critical,192.168.100.206,10.0.50.62,Malicious
+1105,ICMP,Port Scan,Critical,192.168.100.91,10.0.50.93,Malicious
+707,ICMP,DDoS SYN Flood,High,192.168.100.229,10.0.50.152,Malicious
+464,TCP,SQL Injection,High,192.168.100.77,10.0.50.111,Malicious
+959,ICMP,Unauthorized Access,High,192.168.100.232,10.0.50.47,Malicious
+1450,ICMP,ARP Spoofing,Critical,192.168.100.191,10.0.50.134,Malicious
+446,ICMP,Brute Force Login,Critical,192.168.100.23,10.0.50.93,Malicious
+1219,TCP,Unauthorized Access,High,192.168.100.56,10.0.50.175,Malicious
+222,ICMP,Suspicious Payload,Critical,192.168.100.159,10.0.50.22,Malicious
+276,ICMP,SQL Injection,Critical,192.168.100.212,10.0.50.196,Malicious
+1375,UDP,ARP Spoofing,High,192.168.100.18,10.0.50.159,Malicious
+409,ICMP,Malware Command,High,192.168.100.47,10.0.50.245,Malicious
+1036,ICMP,Botnet Traffic,Critical,192.168.100.158,10.0.50.117,Malicious
+1046,TCP,Unauthorized Access,High,192.168.100.11,10.0.50.117,Malicious
+704,TCP,ARP Spoofing,Critical,192.168.100.21,10.0.50.115,Malicious
+1349,UDP,SQL Injection,High,192.168.100.113,10.0.50.74,Malicious
+1431,TCP,Data Exfiltration,High,192.168.100.206,10.0.50.122,Malicious
+1315,UDP,DDoS SYN Flood,Critical,192.168.100.67,10.0.50.6,Malicious
+1040,UDP,DDoS SYN Flood,Critical,192.168.100.49,10.0.50.38,Malicious
+709,TCP,DDoS SYN Flood,High,192.168.100.217,10.0.50.20,Malicious
+1396,ICMP,Suspicious Payload,Critical,192.168.100.203,10.0.50.187,Malicious
+968,ICMP,Port Scan,Critical,192.168.100.113,10.0.50.82,Malicious
+423,ICMP,SQL Injection,High,192.168.100.237,10.0.50.209,Malicious
+926,UDP,Botnet Traffic,High,192.168.100.200,10.0.50.44,Malicious
+1254,UDP,Port Scan,Critical,192.168.100.176,10.0.50.115,Malicious
+854,UDP,Port Scan,Critical,192.168.100.32,10.0.50.4,Malicious
+610,UDP,Malware Command,Critical,192.168.100.178,10.0.50.20,Malicious
+711,ICMP,Data Exfiltration,High,192.168.100.201,10.0.50.42,Malicious
+359,ICMP,SQL Injection,High,192.168.100.129,10.0.50.83,Malicious

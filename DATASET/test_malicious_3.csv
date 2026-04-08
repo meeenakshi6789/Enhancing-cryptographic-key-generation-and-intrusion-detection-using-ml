@@ -1,0 +1,5 @@
+source_ip,tool_used,command,target
+192.168.1.100,nmap,"nmap -sS -O target.com",target.com
+10.0.0.50,metasploit,"exploit/windows/smb/ms17_010_eternalblue",192.168.1.1
+172.16.0.25,sqlmap,"sqlmap -u http://target.com/login.php --dbs",target.com
+203.45.67.89,hydra,"hydra -L users.txt -P pass.txt ssh://target.com",target.com

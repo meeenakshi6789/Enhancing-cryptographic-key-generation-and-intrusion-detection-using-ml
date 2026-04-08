@@ -1,0 +1,5 @@
+username,activity,description,timestamp
+john_doe,login,"Successful login from office IP",2024-01-15 09:00:00
+jane_smith,file_access,"Opened quarterly report document",2024-01-15 09:15:00
+mike_jones,email_sent,"Sent project update to team members",2024-01-15 09:30:00
+sarah_wilson,meeting_joined,"Joined daily standup video call",2024-01-15 09:45:00

@@ -1,0 +1,4 @@
+email,subject,message,status
+victim@email.com,"URGENT: Verify your account immediately","Click here immediately to verify your suspended account or lose access forever!",sent
+target@company.com,"Congratulations! You won $1,000,000","You are the lucky winner of our lottery! Send your bank details to claim your prize.",sent
+user@domain.com,"System infected with ransomware","Your files have been encrypted. Pay bitcoin to decrypt your data.",sent
